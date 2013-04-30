@@ -243,7 +243,6 @@
     <string name="pref_link_prefetch_dialogtitle">Tải trước trang web</string>
     <string name="browserFrameNetworkErrorLabel">Sự cố kết nối</string>
     <string name="browserFrameFileErrorLabel">Sự cố tệp</string>
-    <string name="browserFrameFormResubmitLabel">[chuỗi rỗng]</string>
     <string name="browserFrameFormResubmitMessage">Trang bạn đang cố xem chứa dữ liệu đã được gửi (\"POSTDATA\"). Nếu bạn gửi lại dữ liệu, bất kỳ tác vụ nào mà biểu mẫu trên trang đã thực hiện (như tìm kiếm hoặc mua trực tuyến) sẽ được lặp lại.</string>
     <string name="loadSuspendedTitle">Không có kết nối</string>
     <string name="loadSuspended">Trình duyệt không thể tải trang này vì không có kết nối internet.</string>

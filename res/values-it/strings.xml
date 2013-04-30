@@ -258,7 +258,6 @@
     <string name="pref_link_prefetch_dialogtitle">Precaricamento pagina web</string>
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="browserFrameFileErrorLabel">Problema di file</string>
-    <string name="browserFrameFormResubmitLabel">[stringa vuota]</string>
     <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
     <string name="loadSuspendedTitle">Nessuna connessione</string>
     <string name="loadSuspended">Il browser non può caricare questa pagina senza una connessione a Internet.</string>

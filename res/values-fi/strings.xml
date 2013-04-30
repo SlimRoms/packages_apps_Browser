@@ -258,7 +258,6 @@
     <string name="pref_link_prefetch_dialogtitle">Verkkosivun esilataus</string>
     <string name="browserFrameNetworkErrorLabel">Yhteysongelma</string>
     <string name="browserFrameFileErrorLabel">Tiedosto-ongelma</string>
-    <string name="browserFrameFormResubmitLabel">[tyhjä merkkijono]</string>
     <string name="browserFrameFormResubmitMessage">Sivu, jota yrität avata, sisältää jo lähetettyjä tietoja (POSTDATA). Jos lähetät tiedot uudelleen, sivulla olevan lomakkeen suorittama toimenpide (kuten haku tai verkko-ostos) toistetaan.</string>
     <string name="loadSuspendedTitle">Ei yhteyttä</string>
     <string name="loadSuspended">Selain ei voi ladata tätä sivua, sillä internetyhteyttä ei ole.</string>

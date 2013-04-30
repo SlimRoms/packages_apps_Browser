@@ -243,7 +243,6 @@
     <string name="pref_link_prefetch_dialogtitle">Попереднє завантаження веб-сторінок</string>
     <string name="browserFrameNetworkErrorLabel">Проблема з’єднання</string>
     <string name="browserFrameFileErrorLabel">Проблема з файлом</string>
-    <string name="browserFrameFormResubmitLabel">[порожній рядок]</string>
     <string name="browserFrameFormResubmitMessage">Сторінка, яку ви намагаєтеся переглянути, містить уже подані дані (\"POSTDATA\"). Якщо ви повторно надішлете дані, будь-які дії, виконані цією формою на сторінці (наприклад, пошук чи покупка онлайн), буде повторено.</string>
     <string name="loadSuspendedTitle">Немає з’єднання</string>
     <string name="loadSuspended">Веб-переглядач не може завантажити цю сторінку – немає з’єднання з Інтернетом.</string>

@@ -243,7 +243,6 @@
     <string name="pref_link_prefetch_dialogtitle">网页预加载</string>
     <string name="browserFrameNetworkErrorLabel">连接问题</string>
     <string name="browserFrameFileErrorLabel">文件问题</string>
-    <string name="browserFrameFormResubmitLabel">[空字符串]</string>
     <string name="browserFrameFormResubmitMessage">您尝试查看的网页中包含已提交的数据（“POSTDATA”）。如果您重新发送这些数据，系统会重复该网页上的表单所执行过的一切操作（如搜索或在线购买）。</string>
     <string name="loadSuspendedTitle">无连接</string>
     <string name="loadSuspended">浏览器无法加载此网页，因为没有互联网连接。</string>

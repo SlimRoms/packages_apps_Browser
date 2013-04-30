@@ -258,7 +258,6 @@
     <string name="pref_link_prefetch_dialogtitle">Webseiten vorab laden</string>
     <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
     <string name="browserFrameFileErrorLabel">Dateifehler</string>
-    <string name="browserFrameFormResubmitLabel">[leer]</string>
     <string name="browserFrameFormResubmitMessage">Die Seite, die Sie anzeigen möchten, enthält Daten, die bereits gesendet wurden (\"POST-DATEN\"). Wenn Sie die Daten erneut senden, wird jede Aktion (z. B. eine Suche oder ein Online-Kauf) wiederholt, die das Formular auf der Seite ausgeführt hat.</string>
     <string name="loadSuspendedTitle">Keine Verbindung</string>
     <string name="loadSuspended">Seite kann nicht geladen werden, weil keine Internetverbindung besteht.</string>

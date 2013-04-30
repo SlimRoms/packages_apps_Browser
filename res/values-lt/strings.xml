@@ -243,7 +243,6 @@
     <string name="pref_link_prefetch_dialogtitle">Tinklalapio išankstinis įkėlimas</string>
     <string name="browserFrameNetworkErrorLabel">Ryšio problema</string>
     <string name="browserFrameFileErrorLabel">Failo problema</string>
-    <string name="browserFrameFormResubmitLabel">[empty string]</string>
     <string name="browserFrameFormResubmitMessage">Puslapyje, kurį bandote peržiūrėti, yra duomenų, kurie jau pateikti („POSTDATA“). Jei duomenis siųsite iš naujo, bus pakartoti visi puslapyje esančioje formoje nurodyti veiksmai (pvz., paieška ar pirkimas internetu).</string>
     <string name="loadSuspendedTitle">Nėra ryšio</string>
     <string name="loadSuspended">Naršyklė negali įkelti šio puslapio, nes nėra interneto ryšio.</string>

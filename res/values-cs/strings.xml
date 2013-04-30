@@ -258,7 +258,6 @@
     <string name="pref_link_prefetch_dialogtitle">Předběžné načítání webstránek</string>
     <string name="browserFrameNetworkErrorLabel">Problém s připojením</string>
     <string name="browserFrameFileErrorLabel">Problém se souborem</string>
-    <string name="browserFrameFormResubmitLabel">[empty string]</string>
     <string name="browserFrameFormResubmitMessage">Stránka, kterou se pokoušíte zobrazit, obsahuje data, která již byla odeslána (POSTDATA). Pokud data odešlete znovu, jakákoli akce vykonaná pomocí formuláře na stránce se provede znovu (např. hledání či nákup online).</string>
     <string name="loadSuspendedTitle">Žádné připojení</string>
     <string name="loadSuspended">Prohlížeč nemůže tuto stránku načíst, protože není k dispozici připojení k internetu.</string>

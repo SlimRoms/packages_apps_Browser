@@ -243,7 +243,6 @@
     <string name="pref_link_prefetch_dialogtitle">تحميل صفحة الويب مسبقًا</string>
     <string name="browserFrameNetworkErrorLabel">مشكلة في الاتصال</string>
     <string name="browserFrameFileErrorLabel">مشكلة بالملف</string>
-    <string name="browserFrameFormResubmitLabel">[سلسلة فارغة]</string>
     <string name="browserFrameFormResubmitMessage">تحتوي الصفحة التي تحاول عرضها على بيانات تم إرسالها فعليًا (\"POSTDATA\"). إذا أعدت إرسال البيانات، فسيتم تكرار أي إجراء نفذه النموذج على الصفحة (مثل إجراء عملية بحث أو شراء عبر الإنترنت).</string>
     <string name="loadSuspendedTitle">ليس هناك اتصال</string>
     <string name="loadSuspended">لا يمكن للمتصفح تحميل هذه الصفحة نظرًا لعدم وجود اتصال بالإنترنت.</string>
