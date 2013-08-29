@@ -236,12 +236,6 @@
     <!-- Context Menu item to open the currently selected link in a new
          background window. [CHAR LIMIT=50] -->
     <string name="contextmenu_openlink_newwindow_background">Open in new background tab</string>
-    <!-- Context Menu item to open the currently selected link in a new
-            incognito window. -->
-    <string name="contextmenu_openlink_incognito_newwindow">Open in new incognito tab</string>
-    <!-- Context Menu item to open the currently selected link in a new
-         background window. [CHAR LIMIT=50] -->
-    <string name="contextmenu_openlink_incognito_newwindow_background">Open in new incognito background tab</string>
     <!-- Context Menu item to save the webpage referred to by this link to the
             SD card (external storage) -->
     <string name="contextmenu_savelink">Save link</string>
@@ -327,27 +321,6 @@
     <string name="pref_content_search_engine">Set search engine</string>
     <!-- Settings summary -->
     <string name="pref_content_search_engine_summary">Choose a search engine</string>
-    <!-- User agent label -->
-    <string name="pref_content_ua">User agent</string>
-    <!-- User agent summary -->
-    <string name="pref_content_ua_summary">Choose a user agent</string>
-    <!-- User agent choices -->
-    <string-array name="pref_content_ua_choices" translatable="false">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
-    </string-array>
-    <string-array name="pref_content_ua_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
     <!-- Settings button label that to pick what to set the homepage to [CHAR LIMIT=40] -->
     <string name="pref_set_homepage_to">Set to</string>
     <string-array name="pref_homepage_choices">
@@ -655,10 +628,6 @@
     <!-- Summary for the fullscreen lab feature [CHAR LIMIT=120] -->
     <string name="pref_lab_fullscreen_summary">
       Use fullscreen mode to hide the status bar</string>
-    <!-- Title for the WebSockets feature [CHAR LIMIT=40] -->
-    <string name="pref_lab_websockets">WebSockets</string>
-    <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
-    <string name="pref_lab_websockets_summary">Enable WebSockets</string>
     <!-- Title for bandwidth management preference [CHAR LIMIT=25] -->
     <string name="pref_data_title">Bandwidth management</string>
     <!-- Title for search preloading [CHAR LIMIT=40] -->
@@ -803,9 +772,6 @@
 
     <!-- Do not translate.  Testing only -->
     <string name="dump_nav" translatable="false">Dump navigation cache</string>
-
-    <!-- The default homepage. -->
-    <string name="homepage_base" translatable="false">http://www.slimroms.net</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
@@ -1007,8 +973,6 @@
     <string name="accessibility_button_uaswitch">Switch user agent</string>
     <!-- Content description for go button [CHAR LIMIT=NONE] -->
     <string name="accessibility_button_go">Go</string>
-    <!-- Content description for home screen button [CHAR LIMIT=NONE] -->
-    <string name="accessibility_button_homescreen">Home screen</string>
 
     <!-- Content description for tab switcher button [CHAR LIMIT=NONE] -->
     <string name="accessibility_button_navscreen">Page manager</string>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2013 SlimRoms Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The default homepage. -->
+    <string name="homepage_base" translatable="false">http://www.slimroms.net</string>
+
+    <!-- Title for the WebSockets feature [CHAR LIMIT=40] -->
+    <string name="pref_lab_websockets">WebSockets</string>
+    <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
+    <string name="pref_lab_websockets_summary">Enable WebSockets</string>
+
+    <!-- Content description for home screen button [CHAR LIMIT=NONE] -->
+    <string name="accessibility_button_homescreen">Home screen</string>
+
+    <!-- User agent label -->
+    <string name="pref_content_ua">User agent</string>
+    <!-- User agent summary -->
+    <string name="pref_content_ua_summary">Choose a user agent</string>
+    <!-- User agent choices -->
+    <string-array name="pref_content_ua_choices" translatable="false">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_content_ua_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
