@@ -17,7 +17,7 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <CheckBoxPreference android:key="force_userscalable"
+    <SwitchPreference android:key="force_userscalable"
         android:title="@string/pref_force_userscalable"
         android:summary="@string/pref_force_userscalable_summary"
         android:defaultValue="false" />
@@ -50,7 +50,7 @@
         <com.android.browser.preferences.InvertedContrastPreview
             android:title="@string/preview" />
 
-        <CheckBoxPreference
+        <SwitchPreference
             android:key="inverted"
             android:defaultValue="false"
             android:title="@string/pref_inverted"
