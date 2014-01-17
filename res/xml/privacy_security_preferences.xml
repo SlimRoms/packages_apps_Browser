@@ -31,14 +31,14 @@
             android:dialogMessage="@string/pref_privacy_clear_history_dlg"
             android:dialogIcon="@android:drawable/ic_dialog_alert"/>
 
-    <CheckBoxPreference
+    <SwitchPreference
             android:key="show_security_warnings"
             android:defaultValue="true"
             android:title="@string/pref_security_show_security_warning"
             android:summary="@string/pref_security_show_security_warning_summary" />
 
     <PreferenceCategory android:title="@string/pref_privacy_cookies_title">
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="accept_cookies"
                 android:defaultValue="true"
                 android:title="@string/pref_security_accept_cookies"
@@ -53,7 +53,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/pref_privacy_formdata_title">
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="save_formdata"
                 android:defaultValue="true"
                 android:title="@string/pref_security_save_form_data"
@@ -68,7 +68,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/pref_privacy_location_title">
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="enable_geolocation"
                 android:defaultValue="true"
                 android:title="@string/pref_privacy_enable_geolocation"
@@ -84,7 +84,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/pref_security_passwords_title">
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="remember_passwords"
                 android:defaultValue="true"
                 android:title="@string/pref_security_remember_passwords"
