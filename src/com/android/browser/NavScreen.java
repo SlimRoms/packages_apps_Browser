@@ -168,6 +168,7 @@ public class NavScreen extends RelativeLayout
             } else {
                 mUiController.closeTab(tab);
             }
+            mTabViews.remove(tab);
         }
     }
 
@@ -184,7 +185,8 @@ public class NavScreen extends RelativeLayout
 
                 @Override
                 public void onLayout(int l, int t, int r, int b) {
-                    mUi.hideNavScreen(tix, true);
+                    final int pos = mUi.mTabControl.getTabPosition(tab);
+                    mUi.hideNavScreen(pos, true);
                     switchToTab(tab);
                 }
             });
@@ -281,6 +283,7 @@ public class NavScreen extends RelativeLayout
                 public void onClick(View v) {
                     if (tabview.isClose(v)) {
                         mScroller.animateOut(tabview);
+                        mTabViews.remove(tab);
                     } else if (tabview.isTitle(v)) {
                         switchToTab(tab);
                         mUi.getTitleBar().setSkipTitleBarAnimations(true);
