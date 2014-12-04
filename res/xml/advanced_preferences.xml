@@ -25,18 +25,18 @@
             android:summary="@string/pref_content_search_engine_summary"
             android:dialogTitle="@string/pref_content_search_engine" />
 
-    <CheckBoxPreference
+    <SwitchPreference
             android:key="open_in_background"
             android:defaultValue="false"
             android:title="@string/pref_content_open_in_background"
             android:summary="@string/pref_content_open_in_background_summary" />
 
-    <CheckBoxPreference
+    <SwitchPreference
             android:key="enable_javascript"
             android:defaultValue="true"
             android:title="@string/pref_content_javascript" />
 
-    <CheckBoxPreference
+    <SwitchPreference
             android:key="allow_apptabs"
             android:defaultValue="false"
             android:title="@string/pref_allow_apptabs" />
@@ -64,19 +64,19 @@
                 android:entryValues="@array/pref_default_zoom_values"
                 android:dialogTitle="@string/pref_default_zoom_dialogtitle" />
 
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="load_page"
                 android:defaultValue="true"
                 android:title="@string/pref_content_load_page"
                 android:summary="@string/pref_content_load_page_summary" />
 
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="autofit_pages"
                 android:defaultValue="true"
                 android:title="@string/pref_content_autofit"
                 android:summary="@string/pref_content_autofit_summary" />
 
-        <CheckBoxPreference
+        <SwitchPreference
                 android:key="block_popup_windows"
                 android:defaultValue="true"
                 android:title="@string/pref_content_block_popups" />

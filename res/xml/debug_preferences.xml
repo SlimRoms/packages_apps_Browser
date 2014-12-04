@@ -17,12 +17,12 @@
 <PreferenceScreen 
         xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_hardware_accel"
         android:defaultValue="true"
         android:title="@string/pref_development_hardware_accel" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_hardware_accel_skia"
         android:defaultValue="false"
         android:title="@string/pref_development_hardware_accel_skia"
@@ -35,49 +35,49 @@
         android:entryValues="@array/pref_development_ua_values"
         android:defaultValue="0"/>
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_visual_indicator"
         android:defaultValue="false"
         android:title="@string/pref_development_visual_indicator" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_cpu_upload_path"
         android:defaultValue="false"
         android:title="@string/pref_development_cpu_upload_path" />
 
     <!-- The javascript console is enabled by default when the user has
          also enabled debug mode by navigating to about:debug. -->
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="javascript_console"
         android:defaultValue="true"
         android:title="@string/pref_development_error_console" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="small_screen"
         android:defaultValue="false"
         android:title="@string/pref_development_single_column_rendering" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="wide_viewport"
         android:defaultValue="true"
         android:title="@string/pref_development_viewport" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="normal_layout"
         android:defaultValue="false"
         android:title="@string/pref_development_normal_rendering" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_tracing"
         android:defaultValue="false"
         android:title="@string/pref_development_trace" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_light_touch"
         android:defaultValue="false"
         android:title="Enable light touch" />
 
-    <CheckBoxPreference
+    <SwitchPreference
         android:key="enable_nav_dump"
         android:defaultValue="false"
         android:title="@string/pref_development_nav_dump" />
