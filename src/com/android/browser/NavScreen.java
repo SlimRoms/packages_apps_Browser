@@ -67,6 +67,7 @@ public class NavScreen extends RelativeLayout
     TextView mTitle;
     ImageView mFavicon;
     ImageButton mCloseTab;
+    ImageView mNewTabFab;
 
     NavTabScroller mScroller;
     TabAdapter mAdapter;
@@ -144,6 +145,13 @@ public class NavScreen extends RelativeLayout
             public void onRemovePosition(int pos) {
                 Tab tab = mAdapter.getItem(pos);
                 onCloseTab(tab);
+            }
+        });
+        mNewTabFab = (ImageView) findViewById(R.id.floating_action_button);
+        mNewTabFab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openNewTab(false);
             }
         });
     }

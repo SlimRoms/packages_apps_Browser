@@ -25,6 +25,7 @@
     <color name="primary">#0288d1</color>
     <color name="primary_dark">#0277bd</color>
     <color name="accent">#0288d1</color>
+    <color name="floating_action_button_touch_tint">#0277bd</color>
     <color name="bookmarkWidgetHeader">#383847</color>
     <color name="bookmarkWidgetDivider">#383847</color>
     <color name="bookmarkWidgetItemBackground">#2b2b3c</color>
