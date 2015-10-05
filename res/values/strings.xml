@@ -794,7 +794,7 @@
     <string name="dump_nav" translatable="false">Dump navigation cache</string>
 
     <!-- The default homepage. -->
-    <string name="homepage_base" translatable="false">http://www.slimroms.eu</string>
+    <string name="homepage_base" translatable="false">http://www.slimroms.org</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
