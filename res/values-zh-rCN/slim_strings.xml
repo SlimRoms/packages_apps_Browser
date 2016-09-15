@@ -18,6 +18,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
   <string name="permission_not_granted_dialog_title">权限未被授予</string>
+  <string name="permission_not_granted_dialog_message">写入外部存储的权限未被授予。下载取消。</string>
   <string name="browser_error_title">浏览器发生错误</string>
   <string name="dialog_dismiss">取消</string>
+  <string name="error_permissions">此应用程序没有运行所需的关键权限。请检查您的权限设置。</string>
 </resources>
