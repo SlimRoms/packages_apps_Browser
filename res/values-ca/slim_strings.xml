@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">No s\'ha concedit el permís</string>
+  <string name="permission_not_granted_dialog_message">No se li va donar permís per accedir a l\'emmagatzematge extern. No es pot realitzar la transferència.</string>
+  <string name="browser_error_title">Error del navegador</string>
+  <string name="dialog_dismiss">Descartar</string>
+  <string name="error_permissions">Aquesta aplicació no té els permisos necessaris per executar. Si us plau comproveu el permisos.</string>
 </resources>

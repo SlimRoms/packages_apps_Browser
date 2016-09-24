@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">사용 권한이 부여 되지 않음</string>
+  <string name="permission_not_granted_dialog_message">외부 저장소에 쓰기 권한이 허용 되지 않았습니다. 다운로드 할수 없습니다.</string>
+  <string name="browser_error_title">브라우저 오류</string>
+  <string name="dialog_dismiss">닫기</string>
+  <string name="error_permissions">앱이 실행되는 데 필수적인 권한을 갖고 있지 않습니다. 사용 권한 설정을 확인하십시오.</string>
 </resources>

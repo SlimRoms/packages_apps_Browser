@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">未獲取權限</string>
+  <string name="permission_not_granted_dialog_message">沒有得到外部儲存記憶體寫入權限，無法下載。</string>
+  <string name="browser_error_title">瀏覽器錯誤</string>
+  <string name="dialog_dismiss">退出</string>
+  <string name="error_permissions">此應用程式沒有取得執行所需的權限。請檢查您的權限設定。</string>
 </resources>
