@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Разрешение не предоставлено</string>
+  <string name="permission_not_granted_dialog_message">Разрешение на запись на внешний накопитель не получено. Не удается загрузить.</string>
+  <string name="browser_error_title">Ошибка браузера</string>
+  <string name="dialog_dismiss">Отклонить</string>
+  <string name="error_permissions">Приложение не имеет критических разрешений, необходимых для запуска. Пожалуйста, проверьте ваши настройки разрешений.</string>
 </resources>
