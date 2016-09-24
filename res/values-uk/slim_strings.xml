@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Дозвіл не надано</string>
+  <string name="permission_not_granted_dialog_message">Дозвіл на запис на зовнішній накопичувач ніхто не почув. Неможливо завантажити.</string>
+  <string name="browser_error_title">Помилка браузера</string>
+  <string name="dialog_dismiss">Відхилити</string>
+  <string name="error_permissions">Додаток не має критичних дозволів, необхідних для запуску. Будь ласка, перевірте ваші налаштування дозволів.</string>
 </resources>

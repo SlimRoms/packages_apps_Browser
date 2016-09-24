@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Η άδεια απορρίφθηκε</string>
+  <string name="permission_not_granted_dialog_message">Η άδεια για εγγραφή στο εξωτερικό μέσο αποθήκευσης απορρίφθηκε. Δεν μπορείτε να κατεβάσετε.</string>
+  <string name="browser_error_title">Σφάλμα προγράμματος περιήγησης</string>
+  <string name="dialog_dismiss">Απόρριψη</string>
+  <string name="error_permissions">Η εφαρμογή δεν έχει πρόσβαση στα κρίσιμα δικαιώματα που απαιτούνται για την εκτέλεση. Παρακαλώ ελέγξτε τις ρυθμίσεις δικαιωμάτων.</string>
 </resources>

@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Permission non accordée</string>
+  <string name="permission_not_granted_dialog_message">La permission d\'écriture sur le stockage externe n\'a pas été accordée. Le téléchargement est impossible.</string>
+  <string name="browser_error_title">Erreur du navigateur</string>
+  <string name="dialog_dismiss">Rejeter</string>
+  <string name="error_permissions">Cette application n\'a pas les permissions nécessaires pour s\'exécuter. Veuillez vérifier les paramètres.</string>
 </resources>

@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Permesso non concesso</string>
+  <string name="permission_not_granted_dialog_message">Permesso negato della scrittura nella memoria esterna. Non è possibile scaricare.</string>
+  <string name="browser_error_title">Errore del browser</string>
+  <string name="dialog_dismiss">Ignora</string>
+  <string name="error_permissions">L\'applicazione non dispone delle autorizzazioni necessarie per l\'esecuzione. Si prega di controllare le autorizzazioni nelle impostazioni.</string>
 </resources>
