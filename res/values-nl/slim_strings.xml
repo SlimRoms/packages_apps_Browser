@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Toestemming niet verleend</string>
+  <string name="permission_not_granted_dialog_message">De toestemming om te schrijven naar een externe opslag werd niet verleend. Kan niet downloaden.</string>
+  <string name="browser_error_title">Browser fout</string>
+  <string name="dialog_dismiss">Afwijzen</string>
+  <string name="error_permissions">De app heeft niet de vereiste machtigingen. Controleer uw machtigingsinstellingen.</string>
 </resources>

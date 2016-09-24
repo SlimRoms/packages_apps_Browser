@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Hozzáférés nincs megadva</string>
+  <string name="permission_not_granted_dialog_message">A hozzáférés a külső tároló írásához nincs megadva. Nem lehet letölteni.</string>
+  <string name="browser_error_title">Böngésző hiba</string>
+  <string name="dialog_dismiss">Elvetés</string>
+  <string name="error_permissions">Az alkalmazásnak nincs szüksége kritikus engedélyekhez a futtatáshoz. Kérjük, ellenőrizd a jogosultsági beállításokat.</string>
 </resources>
