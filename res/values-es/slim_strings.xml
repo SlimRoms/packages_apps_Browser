@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
   <string name="permission_not_granted_dialog_title">Permiso denegado</string>
-  <string name="permission_not_granted_dialog_message">Se denegó el permiso para escribir en almacenamiento externo. No se puede descargar.</string>
+  <string name="permission_not_granted_dialog_message">Se denegó el permiso para escribir en el almacenamiento externo. No se puede descargar.</string>
   <string name="browser_error_title">Error del navegador</string>
   <string name="dialog_dismiss">Desechar</string>
   <string name="error_permissions">La aplicación no tiene los permisos necesarios para que funcione. Por favor, compruebe su configuración de permisos.</string>
