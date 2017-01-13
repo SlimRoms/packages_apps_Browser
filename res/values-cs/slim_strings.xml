@@ -17,4 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Permission check -->
+  <string name="permission_not_granted_dialog_title">Opravnění nebyla udělena</string>
+  <string name="permission_not_granted_dialog_message">Oprávnění pro zapis na externí úložiště nebylo uděleno. Nelze stáhnout.</string>
+  <string name="browser_error_title">Chyba prohlížeče</string>
+  <string name="dialog_dismiss">Zrušit</string>
+  <string name="error_permissions">Tato aplikace nemá důležitá oprávnění potřebná pro její spuštění. Zkontrolujte prosím nastavení oprávnění.</string>
 </resources>
